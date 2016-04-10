@@ -1,2 +1,2 @@
-# Go_Repo
-For Personal Go Test
+# Go Repo
+For Personal Go Practice
