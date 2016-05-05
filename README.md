@@ -1,2 +1,2 @@
-# Go Repo
+# Go Practice
 For Personal Go Practice
